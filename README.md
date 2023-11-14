@@ -1,14 +1,3 @@
-# react-map-gl-geocoder
-
-React wrapper for mapbox-gl-geocoder for use with react-map-gl.
-
-[![NPM](https://img.shields.io/npm/v/react-map-gl-geocoder.svg)](https://www.npmjs.com/package/react-map-gl-geocoder) [![react-map-gl-geocoder](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/etguoj/master&style=flat&logo=cypress)](https://dashboard.cypress.io/projects/etguoj/runs)
-
-
-## Demos
-* Simple Example - https://codesandbox.io/s/l7p179qr6m
-* Ignore Map Events Example - https://codesandbox.io/s/react-map-gl-geocoder-using-containerref-to-ignore-events-rewdh
-
 ## Installation
 npm
 ```
